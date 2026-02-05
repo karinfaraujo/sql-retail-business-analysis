@@ -18,6 +18,13 @@ The project was designed with a **business-focused approach**, prioritizing clar
 Only completed transactions were considered (no cancellations, negative quantities, or invalid prices).
 
 ---
+## Dataset
+
+The original dataset (`retail.csv`) was not uploaded due to GitHub file size limitations.
+
+The data is based on the public "Online Retail Dataset", widely used for analytics and BI projects.
+
+---
 
 ## 🧹 Data Cleaning & Modeling (SQL)
 The data preparation was fully performed in **SQLite**, including:
